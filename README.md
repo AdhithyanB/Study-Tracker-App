@@ -239,6 +239,3 @@ This project is developed for educational purposes as part of CSE 230 Mobile Pro
 - Android development community resources
 - Team collaboration and peer learning
 
----
-
-**Built with ❤️ for enhanced learning experiences and academic success tracking.**
